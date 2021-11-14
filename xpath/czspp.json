@@ -8,8 +8,9 @@
 "cateManual":{   "豆瓣电影TOP250":"dbtop250",
     "最新电影":"zuixindianying",
     "电视剧":"dsj",
-     "国产剧":"gcj",
+   
      "海外剧":"movie_bt_series/hwj",
+              "国产剧":"gcj",
      "美剧":"meijutt",
      "韩剧":"hanjutv",
      "番剧":"fanju",
